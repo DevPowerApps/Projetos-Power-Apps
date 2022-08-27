@@ -3,7 +3,7 @@
 
 <br>
 
-Seja bem-vindo ao canal 😁✌️
+Seja bem-vindo ao Portifólio de Power Apps 😁✌️
 
 Já imaginou desenvolver aplicativos para sua empresa 💪🏻😎📱
 
