@@ -15,15 +15,6 @@ A demanda por profissionais que desenvolvem no Power Apps está aumentando a cad
 
 Meu objetivo é apresentar projetos práticos com essa tecnologia 🧑‍💼✍️
 
-📝 Temas Abordados
-
-📱Power Apps <br>
-🔰 SharePoint <br>
-↔️ Power Automate <br>
-🔧 Modelagem de dados <br>
-🌐 SQL Server <br>
-☁️ Microsoft Azure <br>
-
   ##
  
 <div> 
