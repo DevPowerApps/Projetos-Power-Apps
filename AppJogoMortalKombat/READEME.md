@@ -6,11 +6,10 @@
 
 Seja bem-vindo ao Projeto Power Games - Jogo Moral Kombat 😁✌️
 
-Todas as imagens de fundo e dos personagens jogos no Power Apps 🎮😎📱
+⬇️ Conteúdo ⬇️
 
-
-
-
+- Imagens do fundo 📱
+- Sprites dos personagens 👊
 
   ##
  
