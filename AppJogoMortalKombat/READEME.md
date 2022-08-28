@@ -11,6 +11,8 @@ Seja bem-vindo ao Projeto Power Games - Jogo Moral Kombat 😁✌️
 - Imagens do fundo 📱
 - Sprites dos personagens 👊
 
+Qualquer dúvida só me chamar no Linkedin 🧑‍💼
+
   ##
  
 <div> 
